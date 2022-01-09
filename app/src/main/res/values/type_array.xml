@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="type_array">
+        <item>Must have</item>
+        <item>Nice to have</item>
+        <item>Wasted</item>
+    </string-array>
+</resources>

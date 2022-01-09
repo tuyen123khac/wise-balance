@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Wise Balance</string>
+    <string name="spend_wiser">Spend wiser!</string>
+    <string name="use_your_google_account">Use your Google account</string>
+    <string name="gmail">Gmail</string>
+    <string name="password">Password</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+
+    <string name="created">Created</string>
+    <string name="name">Name</string>
+    <string name="type">Type</string>
+    <string name="amount">Amount</string>
+    <string name="expense">Expense: </string>
+    <string name="name_of_expense">Name of expense</string>
+    <string name="amount_">Amount:</string>
+    <string name="created_">Created:</string>
+    <string name="type_">Type:</string>
+    <string name="spent_money">Spent money</string>
+    <string name="description_">Description:</string>
+    <string name="description">Description</string>
+</resources>
